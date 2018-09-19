@@ -1,0 +1,38 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* Part 3 */
+.wrapper{
+	min-height: 100vh;
+	bottom: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+
+
+
+#footer{
+	color: #C0B283;
+	text-align: center;
+	position: absolute;
+	bottom: 0; 
+	width: 100vw;
+	background-color: #575757;
+}
+
+
+
+/* Part 4 */
+
+ul{
+	list-style-type: square;
+}
+
+li li:last-child{
+	color: blue;
+}

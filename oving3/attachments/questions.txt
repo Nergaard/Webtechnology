@@ -1,0 +1,6 @@
+1. The difference between position: absolute and position: fixed is that
+an element with position: absolute is positioned relative to the nearest positioned 
+ancestor. An element with position:fixed is positioned relative to the viewport,
+and stays in the same place even it the page is scrolled.
+
+2. You use pseudo-selector element:nth-child(n). 

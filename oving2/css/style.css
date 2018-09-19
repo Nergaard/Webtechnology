@@ -1,0 +1,16 @@
+header{
+	font-family: Arial;
+}
+
+body{
+	background-color: #DCD0C0;
+}
+
+ul{
+	font-family: Arial, Veranda, Georgia;
+}
+
+img{
+	max-width: 150px;
+	border: 1px solid black;
+}
