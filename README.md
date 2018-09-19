@@ -1,17 +1,17 @@
-Web technology
-
-Tasks:
+# Web technology
+```
+##Tasks:
 Solved tasks in HTML, CSS and JavaScript.
 This is tasks both from school and from online courses.
 
-
-Tools:
+```
+##Tools:
 Handy set-ups, tricks and tools I have created and intend to re-use.
 
-
-Design:
+```
+##Design:
 Ideas to new web pages and web solutions.
 
-
-Pages:
+```
+##Pages:
 Completed pages that might or might not be used for my projects.
