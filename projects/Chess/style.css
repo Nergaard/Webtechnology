@@ -1,0 +1,44 @@
+td{
+	height: 60px;
+	min-width: 60px;
+	border: solid 1px #373737;
+	background-color: #373737;
+}
+th{
+	padding: 10px;
+}
+
+.white{
+	background-color: white;
+}
+
+.outline{
+	width: 70vw;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+}
+
+h2{
+	position: absolute;
+	top: 0;
+	margin-left: 120px;
+}
+
+img{
+	margin-left: 5px;
+}
+
+table {
+margin-top: 75px; 
+border-spacing: 0;
+border-collapse: collapse;
+position: relative;
+}
+
+.rules{
+	position: absolute;
+	top: 0;
+	margin-left: 850px;
+}
+
